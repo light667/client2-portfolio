@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "about": "À Propos",
+    "skills": "Compétences",
+    "services": "Services",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Ingénieur Mécanique & IA",
+    "subtitle": "Fusionner la Physique et l'Intelligence Artificielle pour l'Industrie de demain.",
+    "cta": "Voir mes projets"
+  },
+  "about": {
+    "title": "À Propos de moi",
+    "content": "Je suis un ingénieur en génie mécanique passionné par la fusion entre la physique et l'IA. Ma spécialisation réside dans le développement d'agents autonomes, le Fine-Tuning de LLM, et l'architecture RAG, appliqués à l'automatisation et à la conception avancée."
+  },
+  "skills": {
+    "title": "Expertise Technique",
+    "ai": "Intelligence Artificielle",
+    "robotics": "Robotique & Mécanique",
+    "programming": "Programmation",
+    "tools": "Outils & Plateformes IA"
+  },
+  "services": {
+    "title": "Mes Services",
+    "s1": {
+      "title": "Développement d'Agents IA",
+      "desc": "Automatisation complexe pour l'industrie."
+    },
+    "s2": {
+      "title": "Fine-Tuning de LLM",
+      "desc": "Modèles sur mesure et déploiement."
+    },
+    "s3": {
+      "title": "Conception Mécanique assistée par IA",
+      "desc": "Optimisation topologique avancée."
+    },
+    "s4": {
+      "title": "Intégration RAG",
+      "desc": "Bases de connaissances techniques intelligentes."
+    }
+  },
+  "projects": {
+    "title": "Mes Réalisations"
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "send": "Envoyer le message"
+  }
+}

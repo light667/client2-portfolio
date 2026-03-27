@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Mechanical & AI Engineer",
+    "subtitle": "Merging Physics and Artificial Intelligence for tomorrow's industry.",
+    "cta": "View my projects"
+  },
+  "about": {
+    "title": "About Me",
+    "content": "I am a mechanical engineer passionate about the fusion between physics and AI. My specialization lies in the development of autonomous agents, LLM Fine-Tuning, and RAG architecture, applied to automation and advanced design."
+  },
+  "skills": {
+    "title": "Technical Expertise",
+    "ai": "Artificial Intelligence",
+    "robotics": "Robotics & Mechanics",
+    "programming": "Programming",
+    "tools": "AI Tools & Platforms"
+  },
+  "services": {
+    "title": "Services",
+    "s1": {
+      "title": "AI Agent Development",
+      "desc": "Complex automation for industry."
+    },
+    "s2": {
+      "title": "LLM Fine-Tuning",
+      "desc": "Custom models and deployment."
+    },
+    "s3": {
+      "title": "AI-Assisted Mechanical Design",
+      "desc": "Advanced topological optimization."
+    },
+    "s4": {
+      "title": "RAG Integration",
+      "desc": "Intelligent technical knowledge bases."
+    }
+  },
+  "projects": {
+    "title": "Projects"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "send": "Send Message"
+  }
+}
